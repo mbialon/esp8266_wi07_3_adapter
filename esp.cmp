@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-25 BZR 5536)-product   date = sobota, 28 marca 2015 19:25:11
+
+BeginCmp
+TimeStamp = /5516863E;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55168666;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /551673E0;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5516740F;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = mbialon:SW_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5516735F;
+Reference = U1;
+ValeurCmp = ESP8266_Wi07-3;
+IdModule  = mbialon:ESP8266_Wi07_3;
+EndCmp
+
+EndListe
