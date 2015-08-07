@@ -1,5 +1,7 @@
-# esp8266_wi07_3_adapter
-ESP8266 Wi07-3 adapter
+# ESP8266 Wi07-3 SMD adapter
 
-* [ESP8266 Wi07-3](http://www.electrodragon.com/product/esp8266-wifi-board-full-ios-smd/)
-* [board layout](http://www.electrodragon.com/w/File:ESP8266_IO_SMD_005.jpg)
+A very minimal SMD adapter for the [ESP8266 Wi07-3](http://www.electrodragon.com/product/esp8266-wifi-board-full-ios-smd/). The components can be found in my [Kicad library](https://github.com/mbialon/kicad).
+
+![Schematic](doc/schema.png)
+
+![PCB](doc/pcb.png)
